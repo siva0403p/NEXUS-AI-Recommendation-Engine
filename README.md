@@ -1005,6 +1005,21 @@ More useful discovery
 **Deployment:** Google Cloud Run
 
 ---
+## 🧪 Automated Testing
+
+NEXUS includes an automated pytest test suite covering:
+
+- Interest inference
+- Recommendation ranking
+- Hype/clickbait suppression
+- Scenario-based recommendation behavior
+- Trap cases where keyword matching should fail
+
+### Run tests locally
+
+```bash
+pytest -q
+
 
 ## 📜 License
 
