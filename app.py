@@ -148,6 +148,26 @@ code, pre {
     font-size: 1.0rem;
     line-height: 1.5;
 }
+/* Accessibility improvements */
+.stButton > button {
+    min-height: 44px;
+    font-size: 16px !important;
+    font-weight: 600;
+}
+
+input,
+textarea {
+    min-height: 44px;
+    font-size: 16px !important;
+}
+
+label {
+    font-size: 16px !important;
+}
+
+p {
+    line-height: 1.6;
+}
 </style>
 """, unsafe_allow_html=True)
 
