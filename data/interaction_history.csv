@@ -1,0 +1,9 @@
+reel_id,title,category,topic,difficulty,semantic_tags
+R001,Java Meme: Why Semicolons Matter,Java,Java,Intermediate,"programming,java,developer"
+R002,Software Engineer Lifestyle: Day in SF,Career,Software Engineering,Intermediate,"career,software-engineering,developer"
+R003,Coding Interview Joke: FizzBuzz Fail,DSA,Coding Interviews,Intermediate,"dsa,interview,programming"
+R004,MacBook vs Dell: Best Laptop for Developers,Hardware,Developer Hardware,Intermediate,"hardware,laptop,developer"
+R005,Python Automation for Excel,Python,Automation,Beginner,"python,automation,productivity"
+R006,How to Use 10 AI Tools to Get Rich,Career,AI Tools,Beginner,"ai,career,hype,clickbait"
+R007,Debugging a Production Issue at 2 AM,Career,Software Engineering,Advanced,"debugging,backend,engineering"
+R008,Why Backend Engineers Care About Latency,Backend,Backend Performance,Intermediate,"backend,performance,software-engineering"

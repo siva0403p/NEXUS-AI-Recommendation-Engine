@@ -1,0 +1,116 @@
+reel_id,title,category,topic,difficulty,educational_value,hype_score,semantic_tags,prerequisites,source_type
+T001,Why Java Collections Behave Differently,Java,Java Collections,Beginner,0.86,0.08,"java,collections,programming","programming,java",candidate
+T002,What Really Happens Inside the JVM,Java,JVM Internals,Advanced,0.95,0.05,"java,jvm,runtime","java,systems",candidate
+T003,Java Memory Leaks Explained,Java,Java Memory,Intermediate,0.92,0.04,"java,memory,debugging","java,backend",candidate
+T004,Java Threads and Concurrency in Practice,Java,Concurrency,Intermediate,0.94,0.05,"java,threads,concurrency","java,backend",candidate
+T005,Clean Java Code: Patterns That Scale,Java,Clean Code,Intermediate,0.91,0.07,"java,clean-code,engineering","java,software-engineering",candidate
+T006,Java Backend API Design Basics,Java,Backend,Intermediate,0.93,0.06,"java,api,backend","java,web",candidate
+T007,DSA Patterns Every Programmer Should Recognize,DSA,Problem Solving,Intermediate,0.95,0.04,"dsa,algorithms,patterns",programming,candidate
+T008,Why Two Pointers Works,DSA,Two Pointers,Beginner,0.89,0.03,"dsa,arrays,problem-solving",programming,candidate
+T009,Binary Search Beyond Sorted Arrays,DSA,Binary Search,Intermediate,0.92,0.04,"dsa,binary-search,algorithms",programming,candidate
+T010,How to Think About Dynamic Programming,DSA,Dynamic Programming,Advanced,0.96,0.06,"dsa,dp,problem-solving",dsa,candidate
+T011,Graphs: From BFS to Real Problems,DSA,Graphs,Intermediate,0.94,0.04,"dsa,graphs,bfs",dsa,candidate
+T012,Why Big-O Matters in Production,DSA,Complexity,Intermediate,0.9,0.05,"dsa,complexity,performance","dsa,software-engineering",candidate
+T013,How Hash Tables Actually Work,DSA,Hashing,Intermediate,0.93,0.04,"dsa,hashing,data-structures",programming,candidate
+T014,Coding Interviews: Pattern Recognition Over Tricks,Career,Interview Strategy,Intermediate,0.91,0.09,"interviews,dsa,career","dsa,career",candidate
+T015,How to Explain Your Approach in a Coding Interview,Career,Technical Interviews,Beginner,0.88,0.1,"interviews,communication,career","career,dsa",candidate
+T016,What Interviewers Look for in System Design,HLD,System Design Interviews,Intermediate,0.95,0.07,"hld,interviews,architecture","career,hld",candidate
+T017,Design a URL Shortener in 60 Seconds,HLD,System Design,Intermediate,0.94,0.05,"hld,architecture,apis","backend,hld",candidate
+T018,Load Balancing Explained Visually,HLD,Scalability,Intermediate,0.96,0.03,"hld,load-balancing,scaling","backend,hld",candidate
+T019,Caching: The Hidden Performance Multiplier,HLD,Caching,Intermediate,0.95,0.03,"hld,caching,performance","backend,hld",candidate
+T020,Database Sharding Without the Buzzwords,HLD,Sharding,Advanced,0.96,0.05,"hld,databases,scaling","backend,databases",candidate
+T021,Queues vs Streams: When to Use Which,HLD,Distributed Systems,Advanced,0.95,0.04,"hld,queues,streams","backend,distributed-systems",candidate
+T022,How Netflix-Style Systems Handle Scale,HLD,Distributed Systems,Advanced,0.97,0.08,"hld,distributed-systems,scaling","backend,hld",candidate
+T023,REST APIs: What Good Design Looks Like,Backend,API Design,Beginner,0.9,0.04,"backend,rest,api","web,backend",candidate
+T024,Authentication vs Authorization,Backend,Security Basics,Beginner,0.92,0.03,"backend,auth,security","backend,cybersecurity",candidate
+T025,Why Backend Services Fail Under Load,Backend,Reliability,Intermediate,0.94,0.04,"backend,reliability,scaling","backend,hld",candidate
+T026,Microservices: When NOT to Use Them,Backend,Architecture,Advanced,0.95,0.05,"backend,microservices,architecture","backend,hld",candidate
+T027,Event-Driven Architecture in Plain English,Backend,Event Driven Systems,Intermediate,0.93,0.04,"backend,events,architecture","backend,hld",candidate
+T028,API Rate Limiting Explained,Backend,Reliability,Intermediate,0.91,0.03,"backend,rate-limit,api","backend,hld",candidate
+T029,Python Automation That Saves Real Engineering Time,Python,Automation,Beginner,0.88,0.05,"python,automation,productivity","python,engineering",candidate
+T030,Python Virtual Environments Finally Explained,Python,Tooling,Beginner,0.86,0.03,"python,venv,tooling",python,candidate
+T031,Writing Python That Is Easy to Maintain,Python,Clean Code,Intermediate,0.91,0.05,"python,clean-code,engineering","python,software-engineering",candidate
+T032,Async Python: When It Actually Helps,Python,Async Programming,Advanced,0.94,0.05,"python,async,performance","python,backend",candidate
+T033,Pandas Tricks for Real Data Work,Python,Data Engineering,Intermediate,0.89,0.04,"python,pandas,data","python,data",candidate
+T034,Python Profiling: Find the Slow Code,Python,Performance,Advanced,0.93,0.03,"python,profiling,performance","python,engineering",candidate
+T035,RAG Explained With One Real Application,AI,RAG,Intermediate,0.96,0.05,"ai,rag,llm,retrieval","ai,backend",candidate
+T036,What an AI Agent Actually Does,AI,AI Agents,Intermediate,0.93,0.07,"ai,agents,llm,tools","ai,software-engineering",candidate
+T037,Embeddings: How AI Finds Meaning,AI,Embeddings,Intermediate,0.97,0.04,"ai,embeddings,semantic-search","ai,search",candidate
+T038,Vector Search vs Keyword Search,AI,Semantic Search,Intermediate,0.97,0.03,"ai,vector-search,search","ai,databases",candidate
+T039,Prompting vs Building Reliable AI Systems,AI,AI Engineering,Advanced,0.96,0.05,"ai,prompting,reliability","ai,software-engineering",candidate
+T040,LLM Evaluation: Stop Trusting One Demo,AI,AI Evaluation,Advanced,0.98,0.04,"ai,evaluation,quality","ai,engineering",candidate
+T041,Guardrails for Production AI,AI,AI Safety,Advanced,0.95,0.03,"ai,guardrails,reliability","ai,engineering",candidate
+T042,Fine-Tuning vs RAG: A Practical Decision,AI,LLM Architecture,Advanced,0.96,0.05,"ai,fine-tuning,rag","ai,backend",candidate
+T043,Cloud Basics Every Software Engineer Needs,Cloud,Cloud Fundamentals,Beginner,0.88,0.04,"cloud,engineering,infrastructure","cloud,software-engineering",candidate
+T044,Containers Explained Without Docker Hype,Cloud,Containers,Beginner,0.9,0.04,"cloud,docker,containers","cloud,backend",candidate
+T045,Why CI/CD Exists,Cloud,DevOps,Beginner,0.91,0.03,"cloud,cicd,devops","cloud,software-engineering",candidate
+T046,Kubernetes: What Problem Does It Solve?,Cloud,Kubernetes,Advanced,0.94,0.05,"cloud,kubernetes,containers","cloud,backend",candidate
+T047,"Observability: Logs, Metrics and Traces",Cloud,Observability,Advanced,0.95,0.04,"cloud,observability,reliability","cloud,backend",candidate
+T048,How Auto-Scaling Works,Cloud,Scalability,Intermediate,0.94,0.04,"cloud,autoscaling,scaling","cloud,hld",candidate
+T049,Zero Trust Security in One Diagram,Cybersecurity,Zero Trust,Intermediate,0.95,0.04,"security,zero-trust,network","cybersecurity,cloud",candidate
+T050,Phishing: How Modern Attacks Fool People,Cybersecurity,Security Awareness,Beginner,0.89,0.06,"security,phishing,awareness",cybersecurity,candidate
+T051,OWASP Top Risks Developers Should Know,Cybersecurity,Application Security,Intermediate,0.96,0.04,"security,owasp,web","cybersecurity,web",candidate
+T052,How Password Hashing Protects Users,Cybersecurity,Cryptography,Intermediate,0.93,0.03,"security,passwords,hashing","cybersecurity,backend",candidate
+T053,Threat Modeling for Developers,Cybersecurity,Threat Modeling,Advanced,0.95,0.04,"security,threat-modeling,engineering","cybersecurity,software-engineering",candidate
+T054,SQL Injection: Why It Still Happens,Cybersecurity,Web Security,Intermediate,0.94,0.05,"security,sql,web","cybersecurity,databases",candidate
+T055,Choosing a Laptop for Software Development,Hardware,Developer Hardware,Beginner,0.84,0.06,"hardware,laptop,developer","hardware,software-engineering",candidate
+T056,CPU vs RAM: What Actually Matters for Developers,Hardware,Computer Hardware,Beginner,0.88,0.04,"hardware,cpu,ram",hardware,candidate
+T057,GPU vs CPU for Local AI,Hardware,AI Hardware,Intermediate,0.93,0.05,"hardware,gpu,ai","hardware,ai",candidate
+T058,"SSD, RAM and Build Times: The Developer Reality",Hardware,Developer Productivity,Beginner,0.87,0.03,"hardware,ssd,ram,productivity","hardware,software-engineering",candidate
+T059,How GPUs Accelerate Machine Learning,Hardware,ML Hardware,Intermediate,0.94,0.04,"hardware,gpu,ml","hardware,ai",candidate
+T060,Local LLMs: What Your Laptop Can Really Run,Hardware,Local AI,Intermediate,0.94,0.06,"hardware,llm,local-ai","hardware,ai",candidate
+T061,Code Review: What Senior Engineers Notice,Career,Engineering Practice,Intermediate,0.94,0.05,"career,code-review,engineering","career,software-engineering",candidate
+T062,How Junior Engineers Become Strong Debuggers,Career,Engineering Growth,Intermediate,0.92,0.06,"career,debugging,engineering","career,software-engineering",candidate
+T063,Building a Portfolio That Shows Engineering Skill,Career,Portfolio,Beginner,0.87,0.12,"career,portfolio,projects","career,software-engineering",candidate
+T064,Internship Prep: Projects vs Certificates,Career,Career Strategy,Beginner,0.86,0.1,"career,internship,projects",career,candidate
+T065,How Engineers Read a Large Codebase,Career,Engineering Practice,Advanced,0.95,0.04,"career,codebase,engineering","career,software-engineering",candidate
+T066,From Coding to Engineering: The Mental Shift,Career,Engineering Mindset,Intermediate,0.94,0.07,"career,engineering,mindset","career,software-engineering",candidate
+T067,Git Branching Strategies That Teams Actually Use,DevOps,Git,Beginner,0.9,0.03,"git,devops,collaboration","devops,software-engineering",candidate
+T068,GitHub Actions: Your First CI Pipeline,DevOps,CI/CD,Intermediate,0.93,0.03,"github-actions,cicd,devops","devops,cloud",candidate
+T069,Dockerizing a Python API,DevOps,Containers,Intermediate,0.94,0.04,"docker,python,api","devops,backend",candidate
+T070,Blue-Green vs Rolling Deployments,DevOps,Deployment,Advanced,0.95,0.04,"devops,deployment,cloud","devops,cloud",candidate
+T071,How Database Indexes Speed Up Queries,Databases,Indexing,Intermediate,0.95,0.03,"database,indexes,sql","databases,backend",candidate
+T072,SQL Joins You Actually Use in Projects,Databases,SQL,Beginner,0.89,0.03,"sql,joins,databases",databases,candidate
+T073,Transactions and ACID in Real Systems,Databases,Transactions,Advanced,0.95,0.04,"database,acid,transactions","databases,backend",candidate
+T074,SQL vs NoSQL: Choose by Workload,Databases,Database Architecture,Intermediate,0.93,0.04,"database,nosql,architecture","databases,hld",candidate
+T075,Why Database Connection Pools Matter,Databases,Backend Performance,Advanced,0.94,0.03,"database,connection-pool,backend","databases,backend",candidate
+T076,React State: What Actually Changes,Web Development,React,Beginner,0.87,0.04,"react,javascript,frontend","web,programming",candidate
+T077,Browser to Backend: What Happens After Click,Web Development,Web Architecture,Intermediate,0.94,0.03,"web,http,backend","web,backend",candidate
+T078,HTTP Status Codes Through Real Failures,Web Development,HTTP,Beginner,0.9,0.03,"web,http,api","web,backend",candidate
+T079,Frontend Performance: What Users Actually Feel,Web Development,Performance,Intermediate,0.91,0.04,"web,performance,frontend","web,software-engineering",candidate
+T080,WebSockets vs HTTP Polling,Web Development,Realtime Systems,Advanced,0.94,0.04,"web,websockets,realtime","web,backend,hld",candidate
+T081,What Makes an AI Demo a Production System?,AI,AI Engineering,Advanced,0.97,0.05,"ai,production,engineering","ai,software-engineering",candidate
+T082,Why Evaluation Beats a Bigger Prompt,AI,AI Evaluation,Advanced,0.96,0.03,"ai,evaluation,prompting","ai,engineering",candidate
+T083,Build a Semantic Search Engine in 5 Steps,AI,Semantic Search,Intermediate,0.95,0.04,"ai,semantic-search,embeddings","ai,search",candidate
+T084,Recommendation Systems: Beyond 'People Also Watched',AI,Recommender Systems,Advanced,0.98,0.04,"ai,recommendation,ranking","ai,data",candidate
+T085,How Ranking Systems Balance Relevance and Novelty,AI,Ranking,Advanced,0.97,0.03,"ai,ranking,recommendation","ai,search",candidate
+T086,Cold Start in Recommendation Systems,AI,Recommender Systems,Advanced,0.96,0.04,"ai,recommendation,cold-start","ai,data",candidate
+T087,Why Diversity Matters in Recommendations,AI,Recommendation Quality,Advanced,0.95,0.03,"ai,recommendation,diversity","ai,ranking",candidate
+T088,Detecting Clickbait with Signals Instead of Keywords,AI,Content Quality,Intermediate,0.94,0.04,"ai,clickbait,quality","ai,recommendation",candidate
+T089,Personalization Without a Creepy User Profile,AI,Responsible Personalization,Advanced,0.95,0.04,"ai,privacy,personalization","ai,security",candidate
+T090,Explainable Recommendations: Show the User Why,AI,Explainable AI,Intermediate,0.96,0.03,"ai,xai,recommendation","ai,software-engineering",candidate
+T091,How Search Engines Understand Meaning,AI,Semantic Retrieval,Intermediate,0.95,0.03,"ai,search,embeddings","ai,search",candidate
+T092,Build a Small RAG System With Grounded Sources,AI,RAG,Intermediate,0.95,0.04,"ai,rag,grounding","ai,backend",candidate
+T093,AI Agents: Tool Use vs Simple Chat,AI,AI Agents,Intermediate,0.94,0.06,"ai,agents,tools","ai,software-engineering",candidate
+T094,Measuring Whether a Recommendation Is Actually Useful,AI,Recommendation Evaluation,Advanced,0.98,0.02,"ai,recommendation,evaluation","ai,data",candidate
+T095,Content Diversity: Why Repeating the Same Topic Is Bad,AI,Recommendation Diversity,Intermediate,0.94,0.03,"ai,recommendation,diversity","ai,ranking",candidate
+T096,The Difference Between Relevance and Usefulness,AI,Recommendation Quality,Advanced,0.98,0.03,"ai,recommendation,relevance","ai,ranking",candidate
+T097,Building a Learning Path From Content Interactions,AI,Adaptive Learning,Advanced,0.97,0.04,"ai,learning,recommendation","ai,career",candidate
+T098,Knowledge Graphs for Connecting Technology Concepts,AI,Knowledge Graphs,Advanced,0.96,0.03,"ai,knowledge-graph,semantic","ai,hld",candidate
+T099,How to Detect a Skill Gap From Learning Signals,AI,Skill Gap Analysis,Advanced,0.97,0.04,"ai,skill-gap,personalization","ai,career",candidate
+T100,Next-Best-Action Recommendation Explained,AI,Decision Systems,Advanced,0.97,0.03,"ai,recommendation,decision","ai,ranking",candidate
+N001,10 AI Tools That Will Guarantee You a Job,Career,AI tools,Beginner,0.18,0.96,"ai,career,hype",,negative
+N002,Become a Software Engineer in 7 Days,Career,Career hype,Beginner,0.12,0.98,"career,hype",,negative
+N003,The One Java Trick Interviewers Don't Want You to Know,Java,Interview clickbait,Beginner,0.24,0.91,"java,interview,hype",,negative
+N004,Make ₹1 Lakh This Weekend With AI,Career,Money hype,Beginner,0.08,0.99,"ai,money,hype",,negative
+N005,Top 5 AI Tools You MUST Use in 2026,AI,AI tools,Beginner,0.28,0.88,"ai,tools,hype",,negative
+N006,Guaranteed FAANG Coding Formula,Career,Interview hype,Intermediate,0.22,0.97,"career,dsa,hype",,negative
+N007,Learn Kubernetes in 10 Minutes and Get Hired,Cloud,Cloud hype,Beginner,0.25,0.94,"cloud,kubernetes,hype",,negative
+N008,This Laptop Will Make You a 10x Developer,Hardware,Hardware hype,Beginner,0.2,0.92,"hardware,laptop,hype",,negative
+N009,Stop Coding: AI Will Replace Every Developer,Career,Fear bait,Beginner,0.14,0.95,"ai,career,hype",,negative
+N010,Secret Prompt That Makes Gemini Do Your Job,AI,Prompt hype,Beginner,0.27,0.9,"ai,prompting,hype",,negative
+N011,Earn From Coding Without Learning Coding,Career,Money hype,Beginner,0.1,0.99,"career,hype",,negative
+N012,The Ultimate 3-Tool Stack Every Developer Needs,Career,Tool list,Beginner,0.31,0.82,"tools,career,hype",,negative
+N013,One Certification = Guaranteed Developer Job,Career,Certification hype,Beginner,0.15,0.98,"career,certification,hype",,negative
+N014,Use These 7 Prompts to Become an AI Engineer Overnight,AI,Prompt hype,Beginner,0.23,0.96,"ai,prompting,hype",,negative
+N015,The Laptop Brand Developers Are Secretly Switching To,Hardware,Brand bait,Beginner,0.26,0.89,"hardware,laptop,hype",,negative

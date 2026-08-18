@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+.env.*
+secrets.toml
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Pytest & IDE
+.pytest_cache/
+.coverage
+htmlcov/
+.vscode/
+.idea/
+
+# NEXUS Cache
+.cache/
+.env
+.env.*
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.venv/
+venv/
+.cache/
+.pytest_cache/
