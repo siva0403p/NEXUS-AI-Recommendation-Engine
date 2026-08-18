@@ -14,6 +14,6 @@ def test_nexus_app_renders_core_interface():
     """Verify that the primary NEXUS interface is rendered."""
     app = AppTest.from_file("app.py", default_timeout=30).run()
 
-    assert not app.exception
+    assert not app.exception 
     assert len(app.sidebar) > 0
     assert len(app.button) > 0
